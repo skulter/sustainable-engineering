@@ -1,0 +1,6 @@
+interface:
+  display_name: "Validate Proportionally"
+  short_description: "변경 위험에 비례한 가장 좁고 유효한 검증을 선택합니다"
+  default_prompt: "$validate-proportionally를 사용해 변경 위험에 맞는 검증을 선택하고 수행해 주세요."
+policy:
+  allow_implicit_invocation: true

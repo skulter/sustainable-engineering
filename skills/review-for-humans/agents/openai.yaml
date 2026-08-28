@@ -1,0 +1,6 @@
+interface:
+  display_name: "Review For Humans"
+  short_description: "사람이 읽고 유지하기 좋은 코드인지 정확성과 함께 검토합니다"
+  default_prompt: "$review-for-humans를 사용해 코드를 정확성과 유지보수성 관점에서 검토해 주세요."
+policy:
+  allow_implicit_invocation: true

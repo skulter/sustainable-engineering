@@ -1,0 +1,28 @@
+{
+  "name": "sustainable-engineering",
+  "version": "0.1.0+codex.20260828023645",
+  "description": "Evidence-first workflows for maintainable, human-readable software delivery",
+  "author": {
+    "name": "skulter",
+    "url": "https://github.com/skulter"
+  },
+  "homepage": "https://github.com/skulter/sustainable-engineering#readme",
+  "repository": "https://github.com/skulter/sustainable-engineering",
+  "keywords": [
+    "code-review",
+    "debugging",
+    "maintainability",
+    "frontend",
+    "software-engineering"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Sustainable Engineering",
+    "shortDescription": "Evidence-first, maintainable software workflows.",
+    "longDescription": "Review, implement, debug, validate, migrate, and document software with clear scope, human-readable code, and sustainable engineering boundaries.",
+    "developerName": "skulter",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use the most relevant Sustainable Engineering skill for this software task."
+  }
+}

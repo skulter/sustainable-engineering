@@ -1,0 +1,6 @@
+interface:
+  display_name: "Trace API Flow"
+  short_description: "API 계약부터 서비스와 훅 및 화면 소비 지점까지 추적합니다"
+  default_prompt: "$trace-api-flow를 사용해 API 정의부터 실제 화면 호출까지 전체 흐름을 추적해 주세요."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Debug Root Cause"
+  short_description: "증상과 데이터 흐름을 추적해 근본 원인을 체계적으로 진단합니다"
+  default_prompt: "$debug-root-cause를 사용해 관찰 가능한 근거로 문제의 근본 원인을 진단해 주세요."
+policy:
+  allow_implicit_invocation: true

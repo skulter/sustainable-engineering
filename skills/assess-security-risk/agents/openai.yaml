@@ -1,0 +1,6 @@
+interface:
+  display_name: "Assess Security Risk"
+  short_description: "변경 영역의 신뢰 경계와 입력 및 권한 관련 위험을 검토합니다"
+  default_prompt: "$assess-security-risk를 사용해 변경 영역의 보안 위험을 근거 중심으로 검토해 주세요."
+policy:
+  allow_implicit_invocation: true

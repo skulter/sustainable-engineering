@@ -1,0 +1,6 @@
+interface:
+  display_name: "Plan Compatible Migration"
+  short_description: "경로와 패키지 및 계약 변경을 호환성과 롤백 중심으로 계획합니다"
+  default_prompt: "$plan-compatible-migration를 사용해 호환성과 롤백을 포함한 마이그레이션을 계획해 주세요."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Document Decisions And Flows"
+  short_description: "확인된 결정과 사용자 및 데이터 흐름을 간결한 문서로 정리합니다"
+  default_prompt: "$document-decisions-and-flows를 사용해 확인된 코드 흐름과 결정을 읽기 좋은 문서로 정리해 주세요."
+policy:
+  allow_implicit_invocation: true

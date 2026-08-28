@@ -1,0 +1,6 @@
+interface:
+  display_name: "Implement Scoped Change"
+  short_description: "요청 범위의 최소 변경을 기존 구조와 관례에 맞춰 구현합니다"
+  default_prompt: "$implement-scoped-change를 사용해 확정된 요구사항을 최소 범위로 구현해 주세요."
+policy:
+  allow_implicit_invocation: true

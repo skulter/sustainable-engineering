@@ -1,0 +1,6 @@
+interface:
+  display_name: "Design Sustainable Architecture"
+  short_description: "장기간 운영 가능한 경계와 의존성 및 점진적 변경 전략을 설계합니다"
+  default_prompt: "$design-sustainable-architecture를 사용해 이 변경의 지속 가능한 아키텍처를 설계해 주세요."
+policy:
+  allow_implicit_invocation: true

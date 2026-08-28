@@ -1,0 +1,6 @@
+interface:
+  display_name: "Assess Performance"
+  short_description: "측정 가능한 렌더링과 네트워크 병목을 근거로 성능을 검토합니다"
+  default_prompt: "$assess-performance를 사용해 측정 가능한 근거로 성능 병목을 분석해 주세요."
+policy:
+  allow_implicit_invocation: true

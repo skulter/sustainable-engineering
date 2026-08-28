@@ -1,0 +1,6 @@
+interface:
+  display_name: "Verify UI Against Design"
+  short_description: "구현 화면을 디자인 근거와 비교해 구조와 시각 차이를 검증합니다"
+  default_prompt: "$verify-ui-against-design를 사용해 구현 화면을 디자인과 비교해 차이를 검증해 주세요."
+policy:
+  allow_implicit_invocation: true

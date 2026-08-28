@@ -1,0 +1,21 @@
+{
+  "name": "sustainable-engineering",
+  "interface": {
+    "displayName": "Sustainable Engineering"
+  },
+  "plugins": [
+    {
+      "name": "sustainable-engineering",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/skulter/sustainable-engineering.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

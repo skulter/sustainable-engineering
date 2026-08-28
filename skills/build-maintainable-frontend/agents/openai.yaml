@@ -1,0 +1,6 @@
+interface:
+  display_name: "Build Maintainable Frontend"
+  short_description: "프런트엔드를 명확한 책임과 예측 가능한 상태 흐름으로 구성합니다"
+  default_prompt: "$build-maintainable-frontend를 사용해 프런트엔드 변경을 유지보수 가능한 구조로 구현해 주세요."
+policy:
+  allow_implicit_invocation: true
